@@ -160,7 +160,7 @@ function Home() {
                 <input
                     type="text"
                     placeholder="Search by Title, Author, Subject, or Publish Date"
-                    style={{ padding: '10px', borderRadius: '5px', border: '1px solid #ccc', marginRight: '10px', width: '60%' }}
+                    style={{ padding: '10px', borderRadius: '5px', border: '1px solid #ccc', marginRight: '12px', width: '60%' }}
                     value={searchQuery}
                     onChange={(e) => setSearchQuery(e.target.value)}
                 />

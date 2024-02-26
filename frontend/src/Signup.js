@@ -133,7 +133,7 @@ function Signup() {
       }}
     >
       <div className='bg-light p-5 rounded w-50'>
-        <h2 style={{ color: '#F9B4F6', marginBottom: '30px' }}>Create an Account</h2>
+        <h2 style={{ color: '#FFC0CB', marginBottom: '30px' }}>Create an Account</h2>
         <form onSubmit={handleSubmit}>
           <div className='mb-3'>
             <input
